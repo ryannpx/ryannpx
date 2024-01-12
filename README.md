@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryann
-- 🌱 I’m currently learning JavaScript
+- 🌱 Currently taking cs260 and cs235 at BYU
 
 
 <!---
