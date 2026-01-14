@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Ryann
-- 🌱 Currently taking cs260 and cs235 at BYU
-- Learning C++, HTML, CSS, and Javascript
 
 
 <!---
