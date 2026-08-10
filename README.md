@@ -29,7 +29,6 @@ Currently, I work as an Undergraduate Research Assistant in the BYU Family Histo
 - JavaScript
 - Python
 - C++
-- SQL
 - HTML/CSS
 
 **Tools & Frameworks**
@@ -37,6 +36,7 @@ Currently, I work as an Undergraduate Research Assistant in the BYU Family Histo
 - Git
 - GitHub
 - Node.js
+- React
 
 ## Beyond Code
 
